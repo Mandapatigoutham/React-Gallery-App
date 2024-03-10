@@ -20,7 +20,7 @@ const App = () => {
     })
     .catch(error => {
       console.log(
-        "Encountered an error with fetching and parsing data",
+        "Encountered an error with fetching and parsing  data",
         error
       );
   })
